@@ -1,0 +1,4 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1254060,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,5,14,11,24,9,2,True,caught,2,0,127.27,8.0,32
+1254085,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,6,17,5,6,1,0,True,caught,1,2,340.0,21.0,21
+1254088,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,4,3,4,18,3,0,True,caught,0,0,75.0,11.0,33

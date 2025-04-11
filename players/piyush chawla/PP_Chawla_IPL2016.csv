@@ -1,0 +1,13 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+980903,Delhi Daredevils,,Kolkata Knight Riders,0,0,0,24,16,2,False,,0,0,0.0,5.25,21
+980909,Mumbai Indians,,Kolkata Knight Riders,0,0,0,19,5,1,False,,0,0,0.0,9.16,29
+980915,Sunrisers Hyderabad,,Kolkata Knight Riders,0,0,0,6,2,0,False,,0,0,0.0,13.0,13
+980925,Kings XI Punjab,,Kolkata Knight Riders,0,0,0,18,8,1,False,,0,0,0.0,6.0,18
+980939,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,8,8,5,18,4,0,True,caught,1,0,160.0,8.67,26
+980951,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,3,8,5,12,1,0,True,lbw,2,0,160.0,12.0,24
+980959,Royal Challengers Bangalore,,Kolkata Knight Riders,0,0,0,24,6,2,False,,0,0,0.0,8.0,32
+980963,Kings XI Punjab,,Kolkata Knight Riders,0,0,0,24,11,2,False,,0,0,0.0,6.75,27
+980975,Gujarat Lions,,Kolkata Knight Riders,0,0,0,24,11,1,False,,0,0,0.0,7.5,30
+980989,Rising Pune Supergiants,,Kolkata Knight Riders,0,0,0,24,13,2,False,,0,0,0.0,5.25,21
+980995,Royal Challengers Bangalore,,Kolkata Knight Riders,0,0,0,19,4,0,False,,0,0,0.0,10.11,32
+981001,Gujarat Lions,Kolkata Knight Riders,,4,11,16,0,0,0,True,bowled,1,0,68.75,0.0,0

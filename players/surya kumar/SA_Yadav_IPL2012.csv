@@ -1,0 +1,2 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+548308,Pune Warriors,Mumbai Indians,,6,0,4,0,0,0,True,bowled,0,0,0.0,0,0

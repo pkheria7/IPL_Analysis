@@ -1,0 +1,3 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+597999,Royal Challengers Bangalore,,Mumbai Indians,0,0,0,24,11,3,False,,0,0,0,8.0,32
+598024,Delhi Daredevils,,Mumbai Indians,0,0,0,18,5,0,False,,0,0,0,12.67,38

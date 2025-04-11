@@ -1,0 +1,10 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1254059,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,8,34,15,12,2,0,True,bowled,4,2,226.67,12.0,24
+1254065,Punjab Kings,Chennai Super Kings,Chennai Super Kings,6,5,4,18,12,1,False,,1,0,125.0,4.0,12
+1254069,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,8,13,6,24,12,2,True,run out,0,1,216.67,6.0,24
+1254072,Kolkata Knight Riders,,Chennai Super Kings,0,0,0,24,9,1,False,,0,0,0.0,14.5,58
+1254076,Royal Challengers Bangalore,,Chennai Super Kings,0,0,0,24,9,1,False,,0,0,0.0,8.75,35
+1254080,Sunrisers Hyderabad,,Chennai Super Kings,0,0,0,24,8,1,False,,0,0,0.0,7.5,30
+1254084,Mumbai Indians,,Chennai Super Kings,0,0,0,24,11,3,False,,0,0,0.0,8.5,34
+1254089,Rajasthan Royals,,Chennai Super Kings,0,0,0,24,4,0,False,,0,0,0.0,13.75,55
+1254098,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,7,4,4,24,5,0,True,caught,0,0,100.0,14.0,56

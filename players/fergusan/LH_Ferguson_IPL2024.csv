@@ -1,0 +1,8 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1426268,Sunrisers Hyderabad,,Royal Challengers Bengaluru,0,0,0,24,6,2,False,,0,0,0.0,13.0,52
+1426274,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,10,1,1,24,3,1,True,run out,0,0,100.0,11.75,47
+1426279,Sunrisers Hyderabad,,Royal Challengers Bengaluru,0,0,0,12,2,0,False,,0,0,0.0,14.0,28
+1426296,Punjab Kings,,Royal Challengers Bengaluru,0,0,0,18,4,2,False,,0,0,0.0,9.67,29
+1426300,Delhi Capitals,,Royal Challengers Bengaluru,0,0,0,24,8,2,False,,0,0,0.0,5.75,23
+1426306,Chennai Super Kings,,Royal Challengers Bengaluru,0,0,0,18,6,1,False,,0,0,0.0,13.0,39
+1426310,Rajasthan Royals,,Royal Challengers Bengaluru,0,0,0,24,9,1,False,,0,0,0.0,9.25,37

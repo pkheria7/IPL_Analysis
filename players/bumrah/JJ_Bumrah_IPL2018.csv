@@ -1,0 +1,17 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1082592,Rising Pune Supergiant,,Mumbai Indians,0,0,0,24,6,0,False,,0,0,0.0,7.25,29
+1082597,Kolkata Knight Riders,,Mumbai Indians,0,0,0,24,7,1,False,,0,0,0.0,9.75,39
+1082600,Sunrisers Hyderabad,,Mumbai Indians,0,0,0,24,9,3,False,,0,0,0.0,6.0,24
+1082602,Royal Challengers Bangalore,,Mumbai Indians,0,0,0,24,5,0,False,,0,0,0.0,9.75,39
+1082606,Gujarat Lions,,Mumbai Indians,0,0,0,24,4,0,False,,0,0,0.0,11.25,45
+1082612,Kings XI Punjab,,Mumbai Indians,0,0,0,24,8,1,False,,0,0,0.0,7.5,30
+1082614,Delhi Daredevils,,Mumbai Indians,0,0,0,24,11,2,False,,0,0,0.0,5.25,21
+1082618,Rising Pune Supergiant,,Mumbai Indians,0,0,0,24,9,2,False,,0,0,0.0,7.25,29
+1082625,Gujarat Lions,Mumbai Indians,Mumbai Indians,10,0,1,30,12,2,True,run out,0,0,0.0,7.2,36
+1082628,Royal Challengers Bangalore,,Mumbai Indians,0,0,0,24,7,1,False,,0,0,0.0,8.25,33
+1082635,Delhi Daredevils,,Mumbai Indians,0,0,0,6,3,1,False,,0,0,0.0,6.0,6
+1082638,Sunrisers Hyderabad,,Mumbai Indians,0,0,0,20,8,1,False,,0,0,0.0,6.9,23
+1082641,Kings XI Punjab,,Mumbai Indians,0,0,0,24,9,1,False,,0,0,0.0,6.0,24
+1082647,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,10,16,11,24,5,0,False,,0,1,145.45,8.25,33
+1082649,Kolkata Knight Riders,,Mumbai Indians,0,0,0,18,14,3,False,,0,0,0.0,2.33,7
+1082650,Rising Pune Supergiant,,Mumbai Indians,0,0,0,24,7,2,False,,0,0,0.0,6.5,26

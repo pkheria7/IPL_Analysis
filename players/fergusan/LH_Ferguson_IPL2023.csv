@@ -1,0 +1,4 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1359487,Gujarat Titans,,Kolkata Knight Riders,0,0,0,24,6,0,False,,0,0,0,10.0,40
+1359493,Sunrisers Hyderabad,,Kolkata Knight Riders,0,0,0,12,4,0,False,,0,0,0,18.5,37
+1359496,Mumbai Indians,,Kolkata Knight Riders,0,0,0,10,4,1,False,,0,0,0,11.4,19

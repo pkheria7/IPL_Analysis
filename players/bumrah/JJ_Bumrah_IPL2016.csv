@@ -1,0 +1,15 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+980901,Rising Pune Supergiants,,Mumbai Indians,0,0,0,18,10,0,False,,0,0,0.0,10.0,30
+980909,Kolkata Knight Riders,,Mumbai Indians,0,0,0,24,7,0,False,,0,0,0.0,8.0,32
+980917,Gujarat Lions,,Mumbai Indians,0,0,0,24,8,2,False,,0,0,0.0,8.0,32
+980923,Sunrisers Hyderabad,,Mumbai Indians,0,0,0,18,6,0,False,,0,0,0.0,6.33,19
+980927,Royal Challengers Bangalore,,Mumbai Indians,0,0,0,24,8,3,False,,0,0,0.0,7.75,31
+980933,Delhi Daredevils,,Mumbai Indians,0,0,0,24,5,0,False,,0,0,0.0,10.5,42
+980941,Kings XI Punjab,,Mumbai Indians,0,0,0,24,6,3,False,,0,0,0.0,6.5,26
+980947,Kolkata Knight Riders,,Mumbai Indians,0,0,0,24,8,0,False,,0,0,0.0,8.5,34
+980957,Rising Pune Supergiants,,Mumbai Indians,0,0,0,24,9,3,False,,0,0,0.0,7.25,29
+980973,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,11,6,9,24,9,0,True,caught,1,0,66.67,8.75,35
+980981,Royal Challengers Bangalore,,Mumbai Indians,0,0,0,24,9,0,False,,0,0,0.0,7.0,28
+980985,Kings XI Punjab,Mumbai Indians,Mumbai Indians,11,2,2,12,2,0,False,,0,0,100.0,6.5,13
+980993,Delhi Daredevils,,Mumbai Indians,0,0,0,24,12,3,False,,0,0,0.0,3.25,13
+981007,Gujarat Lions,,Mumbai Indians,0,0,0,24,9,1,False,,0,0,0.0,10.5,42

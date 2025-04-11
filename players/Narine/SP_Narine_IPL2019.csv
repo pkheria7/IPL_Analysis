@@ -1,0 +1,17 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1136563,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,1,50,19,24,8,1,True,bowled,4,5,263.16,7.5,30
+1136565,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,2,12,4,24,8,1,True,caught,0,2,300.0,4.25,17
+1136570,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,4,9,10,24,11,2,True,caught,1,0,90.0,4.25,17
+1136573,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,2,1,4,18,6,3,True,caught,0,0,25.0,6.0,18
+1136575,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,1,35,25,24,6,0,True,run out,5,1,140.0,12.0,48
+1136578,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,2,1,4,18,9,1,True,caught,0,0,25.0,7.67,23
+1136586,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,2,26,9,18,3,0,True,caught,1,3,288.89,11.67,35
+1136589,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,2,27,19,24,9,0,True,caught,3,1,142.11,9.5,38
+1136593,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,2,32,20,24,10,2,True,caught,4,2,160.0,5.0,20
+1136597,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,7,5,4,24,8,2,True,caught,1,0,125.0,8.75,35
+1136601,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,1,4,2,24,10,1,True,caught,1,0,200.0,6.75,27
+1136604,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,2,75,36,24,6,1,True,caught,9,4,208.33,11.0,44
+1136609,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,1,21,7,24,12,1,True,caught,2,2,300.0,7.25,29
+1136614,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,2,29,10,24,9,1,True,caught,4,2,290.0,5.75,23
+1136618,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,1,4,2,24,9,0,True,stumped,1,0,200.0,9.75,39
+1136619,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,2,26,13,24,7,1,True,caught,4,1,200.0,6.0,24

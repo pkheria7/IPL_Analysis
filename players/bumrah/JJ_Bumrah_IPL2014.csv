@@ -1,0 +1,12 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+729287,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,11,1,1,12,4,0,False,,0,0,100.0,7.0,14
+733973,Kings XI Punjab,,Mumbai Indians,0,0,0,24,13,0,False,,0,0,0.0,6.25,25
+733983,Royal Challengers Bangalore,,Mumbai Indians,0,0,0,24,12,2,False,,0,0,0.0,5.5,22
+733995,Chennai Super Kings,,Mumbai Indians,0,0,0,24,7,0,False,,0,0,0.0,8.25,33
+734001,Sunrisers Hyderabad,,Mumbai Indians,0,0,0,24,9,0,False,,0,0,0.0,6.0,24
+734009,Kolkata Knight Riders,,Mumbai Indians,0,0,0,18,6,0,False,,0,0,0.0,7.67,23
+734017,Rajasthan Royals,,Mumbai Indians,0,0,0,18,6,0,False,,0,0,0.0,7.67,23
+734025,Kings XI Punjab,,Mumbai Indians,0,0,0,24,9,2,False,,0,0,0.0,7.75,31
+734031,Delhi Daredevils,Mumbai Indians,Mumbai Indians,11,0,2,24,7,0,False,,0,0,0.0,9.0,36
+734041,Rajasthan Royals,,Mumbai Indians,0,0,0,24,11,1,False,,0,0,0.0,7.5,30
+734045,Chennai Super Kings,,Mumbai Indians,0,0,0,22,8,0,False,,0,0,0.0,10.91,40

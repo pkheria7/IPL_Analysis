@@ -1,0 +1,2 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1254088,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,9,0,2,24,3,1,True,caught,0,0,0.0,9.5,38

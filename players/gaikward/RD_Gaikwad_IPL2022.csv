@@ -1,0 +1,15 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1304047,Kolkata Knight Riders,Chennai Super Kings,,1,0,3,0,0,0,True,caught,0,0,0.0,0,0
+1304053,Lucknow Super Giants,Chennai Super Kings,,2,1,4,0,0,0,True,run out,0,0,25.0,0,0
+1304057,Punjab Kings,Chennai Super Kings,,2,1,4,0,0,0,True,caught,0,0,25.0,0,0
+1304063,Sunrisers Hyderabad,Chennai Super Kings,,2,16,13,0,0,0,True,bowled,3,0,123.08,0,0
+1304068,Royal Challengers Bangalore,Chennai Super Kings,,1,17,16,0,0,0,True,lbw,3,0,106.25,0,0
+1304075,Gujarat Titans,Chennai Super Kings,,1,73,48,0,0,0,True,caught,5,5,152.08,0,0
+1304079,Mumbai Indians,Chennai Super Kings,,1,0,1,0,0,0,True,caught,0,0,0.0,0,0
+1304084,Punjab Kings,Chennai Super Kings,,1,30,27,0,0,0,True,caught,4,0,111.11,0,0
+1304092,Sunrisers Hyderabad,Chennai Super Kings,,1,99,57,0,0,0,True,caught,6,6,173.68,0,0
+1304095,Royal Challengers Bangalore,Chennai Super Kings,,1,28,23,0,0,0,True,caught,3,1,121.74,0,0
+1304101,Delhi Capitals,Chennai Super Kings,,1,41,32,0,0,0,True,caught,4,1,128.12,0,0
+1304105,Mumbai Indians,Chennai Super Kings,,1,7,6,0,0,0,True,caught,1,0,116.67,0,0
+1304108,Gujarat Titans,Chennai Super Kings,,1,53,49,0,0,0,True,caught,4,1,108.16,0,0
+1304114,Rajasthan Royals,Chennai Super Kings,,1,2,6,0,0,0,True,caught,0,0,33.33,0,0

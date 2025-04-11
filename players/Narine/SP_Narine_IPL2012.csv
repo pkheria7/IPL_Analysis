@@ -1,0 +1,16 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+548312,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,10,0,1,24,8,0,True,bowled,0,0,0.0,7.25,29
+548320,Rajasthan Royals,,Kolkata Knight Riders,0,0,0,24,10,1,False,,0,0,0.0,5.5,22
+548323,Kings XI Punjab,,Kolkata Knight Riders,0,0,0,24,13,5,False,,0,0,0.0,4.75,19
+548328,Kings XI Punjab,,Kolkata Knight Riders,0,0,0,24,11,2,False,,0,0,0.0,6.0,24
+548335,Deccan Chargers,,Kolkata Knight Riders,0,0,0,24,10,2,False,,0,0,0.0,6.5,26
+548344,Royal Challengers Bangalore,,Kolkata Knight Riders,0,0,0,24,13,1,False,,0,0,0.0,2.75,11
+548347,Chennai Super Kings,,Kolkata Knight Riders,0,0,0,24,8,1,False,,0,0,0.0,6.0,24
+548353,Pune Warriors,,Kolkata Knight Riders,0,0,0,24,14,1,False,,0,0,0.0,3.25,13
+548357,Delhi Daredevils,,Kolkata Knight Riders,0,0,0,24,14,2,False,,0,0,0.0,5.75,23
+548363,Mumbai Indians,,Kolkata Knight Riders,0,0,0,24,10,0,False,,0,0,0.0,7.0,28
+548368,Chennai Super Kings,,Kolkata Knight Riders,0,0,0,24,13,2,False,,0,0,0.0,3.5,14
+548370,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,9,9,6,19,12,4,False,,2,0,150.0,4.74,15
+548375,Pune Warriors,,Kolkata Knight Riders,0,0,0,24,12,1,False,,0,0,0.0,3.75,15
+548378,Delhi Daredevils,,Kolkata Knight Riders,0,0,0,24,11,2,False,,0,0,0.0,6.0,24
+548381,Chennai Super Kings,,Kolkata Knight Riders,0,0,0,24,5,0,False,,0,0,0.0,9.25,37

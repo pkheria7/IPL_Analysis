@@ -1,0 +1,11 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1422123,Gujarat Titans,Mumbai Indians,Mumbai Indians,7,1,3,24,5,2,True,caught and bowled,0,0,33.33,6.75,27
+1422126,Sunrisers Hyderabad,,Mumbai Indians,0,0,0,24,2,1,False,,0,0,0.0,14.25,57
+1422132,Rajasthan Royals,Mumbai Indians,Mumbai Indians,9,4,9,15,4,0,True,caught,0,0,44.44,14.4,36
+1422138,Delhi Capitals,,Mumbai Indians,0,0,0,24,10,4,False,,0,0,0.0,8.5,34
+1426263,Royal Challengers Bengaluru,,Mumbai Indians,0,0,0,24,13,1,False,,0,0,0.0,10.5,42
+1426267,Chennai Super Kings,,Mumbai Indians,0,0,0,24,11,1,False,,0,0,0.0,8.75,35
+1426271,Punjab Kings,,Mumbai Indians,0,0,0,24,11,3,False,,0,0,0.0,8.0,32
+1426276,Rajasthan Royals,Mumbai Indians,Mumbai Indians,9,0,1,12,7,0,True,caught,0,0,0.0,12.5,25
+1426286,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,9,1,2,18,5,1,False,,0,0,50.0,9.67,29
+1426289,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,9,8,7,12,3,0,True,bowled,0,1,114.29,12.0,24

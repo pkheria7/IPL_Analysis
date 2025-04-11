@@ -1,0 +1,9 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+829705,Mumbai Indians,,Kolkata Knight Riders,0,0,0,24,10,0,False,,0,0,0.0,7.0,28
+829713,Royal Challengers Bangalore,,Kolkata Knight Riders,0,0,0,24,9,0,False,,0,0,0.0,6.5,26
+829733,Kings XI Punjab,,Kolkata Knight Riders,0,0,0,24,11,1,False,,0,0,0.0,4.25,17
+829739,Delhi Daredevils,,Kolkata Knight Riders,0,0,0,24,10,1,False,,0,0,0.0,9.5,38
+829743,Sunrisers Hyderabad,,Kolkata Knight Riders,0,0,0,24,8,0,False,,0,0,0.0,9.5,38
+829761,Delhi Daredevils,,Kolkata Knight Riders,0,0,0,24,8,0,False,,0,0,0.0,7.5,30
+829791,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,10,0,1,24,13,4,False,,0,0,0.0,4.75,19
+829805,Mumbai Indians,,Kolkata Knight Riders,0,0,0,24,5,1,False,,0,0,0.0,9.5,38

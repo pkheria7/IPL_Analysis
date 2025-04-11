@@ -1,0 +1,14 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1422119,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,5,18,22,18,5,2,True,bowled,1,0,81.82,9.0,27
+1422124,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,3,3,5,12,3,0,True,caught,0,0,60.0,9.5,19
+1422128,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,3,33,21,6,2,0,True,bowled,4,2,157.14,7.0,7
+1422133,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,5,9,9,12,3,0,True,bowled,1,0,100.0,12.5,25
+1422137,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,5,5,6,19,5,0,False,,0,0,83.33,8.53,27
+1426274,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,5,6,4,24,8,2,True,caught,0,1,150.0,8.75,35
+1426279,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,5,37,20,12,7,2,False,,5,0,185.0,6.0,12
+1426283,Gujarat Titans,,Royal Challengers Bengaluru,0,0,0,18,2,0,False,,0,0,0.0,14.0,42
+1426290,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,6,1,2,24,11,1,True,caught,0,0,50.0,7.0,28
+1426296,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,5,46,27,6,1,0,True,caught,5,1,170.37,16.0,16
+1426300,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,5,32,24,24,12,1,False,,1,2,133.33,4.75,19
+1426306,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,4,38,17,12,2,1,False,,3,3,223.53,9.0,18
+1426310,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,3,27,21,24,9,1,True,caught,2,1,128.57,7.0,28

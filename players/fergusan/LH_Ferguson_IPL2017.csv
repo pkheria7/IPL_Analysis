@@ -1,0 +1,5 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1082603,Gujarat Lions,Rising Pune Supergiant,Rising Pune Supergiant,10,1,1,24,9,0,False,,0,0,100.0,11.0,44
+1082624,Royal Challengers Bangalore,,Rising Pune Supergiant,0,0,0,24,17,2,False,,0,0,0.0,1.75,7
+1082647,Mumbai Indians,,Rising Pune Supergiant,0,0,0,18,9,1,False,,0,0,0.0,7.0,21
+1082650,Mumbai Indians,,Rising Pune Supergiant,0,0,0,12,5,0,False,,0,0,0.0,10.5,21

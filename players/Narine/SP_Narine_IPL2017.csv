@@ -1,0 +1,17 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1082593,Gujarat Lions,,Kolkata Knight Riders,0,0,0,24,7,0,False,,0,0,0.0,8.25,33
+1082597,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,8,1,2,24,12,1,True,lbw,0,0,50.0,5.5,22
+1082601,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1,37,18,24,14,1,True,caught,4,3,205.56,4.75,19
+1082604,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,1,6,9,24,10,1,True,bowled,1,0,66.67,4.5,18
+1082608,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,8,1,1,24,8,1,False,,0,0,100.0,5.0,20
+1082613,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,1,42,17,24,7,0,True,caught,9,1,247.06,10.5,42
+1082617,Royal Challengers Bangalore,Kolkata Knight Riders,,1,34,17,0,0,0,True,caught,6,1,200.0,0.0,0
+1082620,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,1,16,11,24,6,1,True,run out,3,0,145.45,8.5,34
+1082622,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,1,4,4,24,8,1,True,bowled,1,0,100.0,6.25,25
+1082627,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,1,1,4,18,2,0,True,caught,0,0,25.0,12.33,37
+1082631,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,1,0,6,24,9,1,True,caught and bowled,0,0,0.0,7.0,28
+1082636,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,2,54,17,24,8,2,True,caught,6,4,317.65,7.25,29
+1082639,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1,18,10,24,8,1,True,bowled,4,0,180.0,6.75,27
+1082644,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,1,0,4,24,8,0,True,caught,0,0,0.0,9.25,37
+1082648,Sunrisers Hyderabad,,Kolkata Knight Riders,0,0,0,24,13,0,False,,0,0,0.0,5.0,20
+1082649,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,2,10,10,24,13,0,True,stumped,0,1,100.0,5.25,21

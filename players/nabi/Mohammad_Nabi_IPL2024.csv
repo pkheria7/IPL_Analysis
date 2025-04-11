@@ -1,0 +1,8 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1422138,Delhi Capitals,,Mumbai Indians,0,0,0,12,1,0,False,,0,0,0.0,8.5,17
+1426263,Royal Challengers Bengaluru,,Mumbai Indians,0,0,0,6,2,0,False,,0,0,0.0,7.0,7
+1426267,Chennai Super Kings,Mumbai Indians,Mumbai Indians,8,4,7,18,7,0,False,,0,0,57.14,6.33,19
+1426271,Punjab Kings,Mumbai Indians,,8,0,1,0,0,0,True,run out,0,0,0.0,0.0,0
+1426276,Rajasthan Royals,Mumbai Indians,Mumbai Indians,5,23,17,18,5,0,True,caught and bowled,2,1,135.29,10.0,30
+1426281,Delhi Capitals,Mumbai Indians,Mumbai Indians,8,7,4,12,2,1,True,caught,0,1,175.0,10.0,20
+1426286,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,8,1,2,8,1,1,True,bowled,0,0,50.0,12.0,16

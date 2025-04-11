@@ -1,0 +1,14 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1304050,Lucknow Super Giants,,Gujarat Titans,0,0,0,24,11,0,False,,0,0,0.0,6.0,24
+1304056,Delhi Capitals,,Gujarat Titans,0,0,0,24,11,4,False,,0,0,0.0,7.0,28
+1304062,Punjab Kings,,Gujarat Titans,0,0,0,24,10,1,False,,0,0,0.0,8.25,33
+1304067,Sunrisers Hyderabad,,Gujarat Titans,0,0,0,24,7,0,False,,0,0,0.0,11.5,46
+1304070,Rajasthan Royals,,Gujarat Titans,0,0,0,24,12,3,False,,0,0,0.0,5.75,23
+1304075,Chennai Super Kings,,Gujarat Titans,0,0,0,24,5,0,False,,0,0,0.0,11.5,46
+1304081,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,8,0,1,24,13,1,True,caught,0,0,0.0,8.25,33
+1304086,Sunrisers Hyderabad,,Gujarat Titans,0,0,0,24,6,0,False,,0,0,0.0,13.0,52
+1304089,Royal Challengers Bangalore,,Gujarat Titans,0,0,0,24,9,1,False,,0,0,0.0,9.0,36
+1304094,Punjab Kings,Gujarat Titans,Gujarat Titans,9,5,3,18,8,1,True,caught,1,0,166.67,9.67,29
+1304097,Mumbai Indians,,Gujarat Titans,0,0,0,24,11,1,False,,0,0,0.0,8.5,34
+1304113,Royal Challengers Bangalore,,Gujarat Titans,0,0,0,10,2,0,False,,0,0,0.0,12.6,21
+1312200,Rajasthan Royals,,Gujarat Titans,0,0,0,18,5,0,False,,0,0,0.0,7.33,22

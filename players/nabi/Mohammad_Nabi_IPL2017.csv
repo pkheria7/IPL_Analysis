@@ -1,0 +1,4 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1082609,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,7,2,3,24,11,1,True,caught,0,0,66.67,7.0,28
+1082638,Mumbai Indians,,Sunrisers Hyderabad,0,0,0,24,15,1,False,,0,0,0.0,3.25,13
+1082643,Gujarat Lions,,Sunrisers Hyderabad,0,0,0,18,8,0,False,,0,0,0.0,5.67,17

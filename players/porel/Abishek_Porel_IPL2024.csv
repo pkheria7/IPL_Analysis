@@ -1,0 +1,13 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1,Punjab Kings,Delhi Capitals,,9,32,10,0,0,0,False,,4,2,320.0,0,0
+2,Rajasthan Royals,Delhi Capitals,,6,9,10,0,0,0,True,caught,0,0,90.0,0,0
+3,Chennai Super Kings,Delhi Capitals,,7,9,5,0,0,0,False,,1,0,180.0,0,0
+4,Kolkata Knight Riders,Delhi Capitals,,4,0,5,0,0,0,True,caught,0,0,0.0,0,0
+5,Mumbai Indians,Delhi Capitals,,3,41,31,0,0,0,True,caught,5,0,132.26,0,0
+6,Gujarat Titans,Delhi Capitals,,4,15,7,0,0,0,True,bowled,2,1,214.29,0,0
+7,Sunrisers Hyderabad,Delhi Capitals,,4,42,22,0,0,0,True,stumped,7,1,190.91,0,0
+8,Mumbai Indians,Delhi Capitals,,2,36,27,0,0,0,True,caught,3,1,133.33,0,0
+9,Kolkata Knight Riders,Delhi Capitals,,3,18,15,0,0,0,True,bowled,2,1,120.0,0,0
+10,Rajasthan Royals,Delhi Capitals,,2,65,36,0,0,0,True,caught,7,3,180.56,0,0
+11,Royal Challengers Bengaluru,Delhi Capitals,,3,2,3,0,0,0,True,caught,0,0,66.67,0,0
+12,Lucknow Super Giants,Delhi Capitals,,3,58,33,0,0,0,True,caught,5,4,175.76,0,0

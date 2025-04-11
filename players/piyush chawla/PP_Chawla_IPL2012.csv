@@ -1,0 +1,17 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+548309,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,8,10,8,24,8,1,True,bowled,0,1,125.0,8.25,33
+548313,Pune Warriors,Kings XI Punjab,Kings XI Punjab,6,16,8,12,3,0,True,caught,2,1,200.0,7.0,14
+548319,Pune Warriors,Kings XI Punjab,Kings XI Punjab,5,21,24,24,8,1,False,,3,0,87.5,5.75,23
+548323,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,8,13,8,24,11,3,False,,0,1,162.5,4.5,18
+548328,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,8,9,10,24,11,2,True,bowled,0,0,90.0,4.75,19
+548331,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,8,7,3,24,9,1,False,,1,0,233.33,5.25,21
+548334,Mumbai Indians,,Kings XI Punjab,0,0,0,24,8,0,False,,0,0,0.0,4.75,19
+548339,Mumbai Indians,,Kings XI Punjab,0,0,0,24,7,1,False,,0,0,0.0,11.5,46
+548343,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,7,0,2,24,11,2,True,caught,0,0,0.0,5.0,20
+548350,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,8,6,2,18,7,1,False,,0,1,300.0,11.67,35
+548354,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,8,5,4,24,8,2,True,bowled,1,0,125.0,9.5,38
+548359,Deccan Chargers,,Kings XI Punjab,0,0,0,24,7,1,False,,0,0,0.0,8.25,33
+548366,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,7,8,3,18,4,0,True,caught,2,0,266.67,9.0,27
+548369,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,8,10,14,24,10,1,True,caught,0,0,71.43,8.25,33
+548371,Chennai Super Kings,,Kings XI Punjab,0,0,0,6,2,0,False,,0,0,0.0,12.0,12
+548374,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,8,1,2,24,10,0,True,bowled,0,0,50.0,7.0,28

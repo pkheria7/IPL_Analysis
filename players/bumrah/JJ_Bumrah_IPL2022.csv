@@ -1,0 +1,15 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1304048,Delhi Capitals,,Mumbai Indians,0,0,0,20,4,0,False,,0,0,0.0,12.9,43
+1304055,Rajasthan Royals,Mumbai Indians,Mumbai Indians,9,0,1,24,15,3,False,,0,0,0.0,4.25,17
+1304060,Kolkata Knight Riders,,Mumbai Indians,0,0,0,18,7,0,False,,0,0,0.0,8.67,26
+1304064,Royal Challengers Bangalore,,Mumbai Indians,0,0,0,24,6,0,False,,0,0,0.0,7.75,31
+1304069,Punjab Kings,Mumbai Indians,Mumbai Indians,9,0,1,24,5,1,True,caught,0,0,0.0,7.0,28
+1304072,Lucknow Super Giants,,Mumbai Indians,0,0,0,24,8,0,False,,0,0,0.0,6.0,24
+1304079,Chennai Super Kings,,Mumbai Indians,0,0,0,24,8,0,False,,0,0,0.0,7.25,29
+1304083,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,9,0,2,24,9,1,False,,0,0,0.0,7.75,31
+1304090,Rajasthan Royals,,Mumbai Indians,0,0,0,24,11,0,False,,0,0,0.0,6.75,27
+1304097,Gujarat Titans,,Mumbai Indians,0,0,0,24,7,0,False,,0,0,0.0,12.0,48
+1304102,Kolkata Knight Riders,,Mumbai Indians,0,0,0,24,18,5,True,run out,0,0,0.0,2.5,10
+1304105,Chennai Super Kings,,Mumbai Indians,0,0,0,18,13,1,False,,0,0,0.0,4.0,12
+1304111,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,8,0,4,24,11,1,False,,0,0,0.0,8.0,32
+1304115,Delhi Capitals,,Mumbai Indians,0,0,0,24,11,3,False,,0,0,0.0,6.25,25

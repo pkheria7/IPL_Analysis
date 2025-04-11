@@ -1,0 +1,5 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1359481,Gujarat Titans,Delhi Capitals,,6,20,11,0,0,0,True,bowled,0,2,181.82,0,0
+1359485,Rajasthan Royals,Delhi Capitals,,8,7,9,0,0,0,True,caught,1,0,77.78,0,0
+1359490,Mumbai Indians,Delhi Capitals,,8,1,3,0,0,0,True,caught,0,0,33.33,0,0
+1359494,Royal Challengers Bangalore,Delhi Capitals,,6,5,8,0,0,0,True,caught,0,0,62.5,0,0

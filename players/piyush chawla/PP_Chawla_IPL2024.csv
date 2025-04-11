@@ -1,0 +1,12 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1422123,Gujarat Titans,Mumbai Indians,Mumbai Indians,9,0,1,18,4,1,True,caught,0,0,0.0,10.33,31
+1422126,Sunrisers Hyderabad,,Mumbai Indians,0,0,0,12,1,1,False,,0,0,0.0,17.0,34
+1422132,Rajasthan Royals,Mumbai Indians,Mumbai Indians,7,3,6,18,6,0,True,caught,0,0,50.0,6.0,18
+1422138,Delhi Capitals,,Mumbai Indians,0,0,0,12,2,0,False,,0,0,0.0,16.0,32
+1426276,Rajasthan Royals,Mumbai Indians,Mumbai Indians,10,1,1,24,8,1,False,,0,0,100.0,8.25,33
+1426281,Delhi Capitals,Mumbai Indians,Mumbai Indians,9,10,4,24,7,1,True,caught,1,1,250.0,9.0,36
+1426286,Lucknow Super Giants,,Mumbai Indians,0,0,0,18,5,0,False,,0,0,0.0,7.67,23
+1426289,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,10,0,1,18,8,1,True,caught,0,0,0.0,5.0,15
+1426293,Sunrisers Hyderabad,,Mumbai Indians,0,0,0,24,7,3,False,,0,0,0.0,8.25,33
+1426298,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,10,1,2,18,7,2,False,,0,0,50.0,9.33,28
+1426305,Lucknow Super Giants,,Mumbai Indians,0,0,0,24,10,3,False,,0,0,0.0,7.25,29

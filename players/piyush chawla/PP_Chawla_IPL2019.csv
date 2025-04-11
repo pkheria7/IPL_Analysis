@@ -1,0 +1,16 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1136563,Royal Challengers Bangalore,,Kolkata Knight Riders,0,0,0,24,10,1,False,,0,0,0.0,7.75,31
+1136565,Chennai Super Kings,,Kolkata Knight Riders,0,0,0,24,5,1,False,,0,0,0.0,12.25,49
+1136570,Sunrisers Hyderabad,,Kolkata Knight Riders,0,0,0,24,10,1,False,,0,0,0.0,5.0,20
+1136573,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,9,0,3,12,4,1,True,caught,0,0,0.0,8.0,16
+1136575,Rajasthan Royals,,Kolkata Knight Riders,0,0,0,24,10,1,False,,0,0,0.0,4.5,18
+1136578,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,9,2,2,12,4,0,False,,0,0,100.0,12.0,24
+1136586,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,9,2,4,24,10,1,True,caught,0,0,50.0,8.25,33
+1136589,Royal Challengers Bangalore,,Kolkata Knight Riders,0,0,0,18,10,0,False,,0,0,0.0,7.33,22
+1136593,Chennai Super Kings,,Kolkata Knight Riders,0,0,0,24,11,2,False,,0,0,0.0,8.75,35
+1136597,Mumbai Indians,,Kolkata Knight Riders,0,0,0,18,6,0,False,,0,0,0.0,11.67,35
+1136601,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,9,11,13,24,9,3,True,caught,1,0,84.62,12.0,48
+1136604,Kings XI Punjab,,Kolkata Knight Riders,0,0,0,12,1,0,False,,0,0,0.0,8.0,16
+1136614,Sunrisers Hyderabad,,Kolkata Knight Riders,0,0,0,12,2,0,False,,0,0,0.0,9.5,19
+1136618,Rajasthan Royals,,Kolkata Knight Riders,0,0,0,24,7,2,False,,0,0,0.0,6.0,24
+1136619,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,8,12,12,18,7,1,True,bowled,0,1,100.0,7.33,22

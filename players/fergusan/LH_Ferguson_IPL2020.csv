@@ -1,0 +1,6 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1175357,Sunrisers Hyderabad,,Kolkata Knight Riders,0,0,0,24,3,0,False,,0,0,0,8.5,34
+1175361,Kings XI Punjab,,Kolkata Knight Riders,0,0,0,24,10,1,False,,0,0,0,10.5,42
+1175365,Delhi Capitals,,Kolkata Knight Riders,0,0,0,24,7,1,False,,0,0,0,9.5,38
+1175372,Royal Challengers Bangalore,,Kolkata Knight Riders,0,0,0,12,3,0,False,,0,0,0,16.0,32
+1178401,Delhi Capitals,,Kolkata Knight Riders,0,0,0,18,5,0,False,,0,0,0,12.33,37

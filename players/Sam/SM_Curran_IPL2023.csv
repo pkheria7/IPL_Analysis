@@ -1,0 +1,15 @@
+match_id,opponent_team,batting_team,bowling_team,batting_position,total_runs,balls_played,balls_bowled,dot_balls,wickets_taken,dismissed,dismissal_kind,fours,sixes,batting_strike_rate,bowling_economy,runs_conceded
+1359476,Kolkata Knight Riders,Punjab Kings,Punjab Kings,6,26,17,18,4,1,False,,0,2,152.94,12.67,38
+1359482,Rajasthan Royals,Punjab Kings,Punjab Kings,7,1,2,24,6,0,False,,0,0,50.0,11.0,44
+1359488,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,5,22,15,18,8,0,True,caught,3,1,146.67,4.67,14
+1359492,Gujarat Titans,Punjab Kings,Punjab Kings,6,22,22,23,6,1,True,caught,1,1,100.0,6.52,25
+1359495,Lucknow Super Giants,Punjab Kings,Punjab Kings,6,6,6,24,9,3,True,caught,1,0,100.0,7.75,31
+1359501,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,6,10,12,24,3,0,True,run out,1,0,83.33,6.75,27
+1359505,Mumbai Indians,Punjab Kings,Punjab Kings,6,55,28,18,2,0,True,caught and bowled,5,4,196.43,13.67,41
+1359512,Lucknow Super Giants,Punjab Kings,Punjab Kings,6,21,10,18,5,1,True,caught,2,1,210.0,12.67,38
+1359515,Chennai Super Kings,Punjab Kings,Punjab Kings,5,29,20,24,7,1,True,bowled,1,1,145.0,11.5,46
+1359520,Mumbai Indians,,Punjab Kings,0,0,0,18,3,0,False,,0,0,0.0,13.67,41
+1359527,Kolkata Knight Riders,Punjab Kings,Punjab Kings,6,4,9,18,5,0,True,caught,0,0,44.44,14.67,44
+1359533,Delhi Capitals,Punjab Kings,Punjab Kings,5,20,24,12,4,0,True,caught,1,0,83.33,9.0,18
+1359538,Delhi Capitals,Punjab Kings,Punjab Kings,7,11,5,24,9,2,True,bowled,1,1,220.0,9.0,36
+1359540,Rajasthan Royals,Punjab Kings,Punjab Kings,5,49,31,24,9,1,False,,4,2,158.06,11.5,46
