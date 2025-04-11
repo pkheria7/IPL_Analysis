@@ -59,5 +59,3 @@ You can install the required packages using the following command:
 pip install -r requirements.txt
 ```
 
-## requirements.txt
-Create a `requirements.txt` file with the following content:
